@@ -1,5 +1,5 @@
 Agile:
-
+Agile methodology
 Flexible
 Customer focused
 
@@ -139,7 +139,7 @@ Metadata(IDP,SP)
 xml file 
 
 
-SAML 
+SAML Security Assertion Markup Language  
 
 
 
