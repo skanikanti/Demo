@@ -139,7 +139,7 @@ Metadata(IDP,SP)
 xml file 
 
 
-SAML 
+SAML Security Assertion Markup Language  
 
 
 
