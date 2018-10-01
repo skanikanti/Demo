@@ -1,0 +1,162 @@
+Agile:
+
+Flexible
+Customer focused
+
+5 tasks 
+
+4 tasks + 1 new task
+
+6 tasks
+
+
+Man hours 8hrs (meetings + actual work)
+
+5hrs
+
+
+Scrum Methodoly  (15mins to 20mins)
+
+1) What i dif 
+
+2) Today
+
+3) Blocking me
+
+Scrum masters
+15 
+
+
+11:am
+
+iOS 12.x
+
+feature1 n number of engineers
+
+
+, featuren....
+
+
+Sprint  3 weeks (build#100)
+1) Grooming   
+2) Coding, Testing, documentation
+3) Daily Scrums
+
+4) Retrospective (build#110)
+1) What went well
+2) What didn't went well
+3) What can be doe better
+
+
+1) Onprem(iso, any piece of code zip), Cloud deployment
+
+
+
+
+
+
+
+
+1) Feature dev complete
+2) QE complete
+
+
+Releases
+
+Sprint 3 weeks Feature2
+
+
+1) Spike  --Yes
+Is this doable ?
+How long it will take?
+
+
+
+
+
+
+
+2) Epic --whole Feature
+
+1) UI 
+2) Backend
+3) 
+
+3) Story1 UI   -- Devloper
+4) Story2 Backend  -- Devloper
+
+
+Acceptance criteria
+1) Add all UI pages
+2) Integrate few other things
+
+
+111#
+
+
+4) Sub task/Task
+
+
+n changes  --- Master (n+1)
+
+
+Master (Super set) --Build
+
+Broken builds
+
+
+
+Branches1 
+Branches2
+
+
+1) Docker production
+
+
+service1(443) --->    service2(443)
+
+
+Docker
+
+
+Containers
+
+Container1, container2,..... containern
+
+
+iso
+
+
+2 entities
+
+Identity provider(ADFS,Okta,Pingone)  , service provider(Office365, salesforce, box, servicenow)
+
+
+abc@company.com
+,
+Metadata(IDP,SP) 
+
+xml file 
+
+
+SAML 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://dzone.com/articles/saml-versus-oauth-which-one
